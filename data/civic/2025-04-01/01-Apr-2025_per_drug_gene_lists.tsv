@@ -1,0 +1,401 @@
+Daunorubicin	DNMT3A,FLT3,IKZF1,NPM1,PRPS1,WT1
+Selumetinib	BRAF,DDX43,ERBB3,FLT3,GNA11,GNAQ,HRAS,KIT,KRAS,MAP2K1,MET,NF1,NF2,NRAS,RIT1,STK11,TBK1,TP53
+Vemurafenib	AKT1,AKT3,ARAF,BRAF,GNAQ,GNAS,HRAS,KRAS,MAP2K1,MET,NF1,NRAS,PIK3CA,PIK3R2,PREX2,PTEN,RAC1,SOX10,STAG2,STAG3
+Imatinib	ABL1,ABL2,BCL2L11,IKZF1,KIT,PDGFRA
+Sorafenib	ARAF,BRAF,CCND1,FLT3,HMOX1,KDR,KIT,KRAS,PROM1,RAF1,RET
+Idarubicin	DNMT3A
+Peginterferon Alfa-2b	JAK2
+Fedratinib	JAK2
+Tanespimycin	ALK,NRAS,PIK3CA,PTEN
+Temozolomide	ATM,ATRX,BRCA2,IDH1,MGMT,NRAS
+Crizotinib	ALK,AREG,EGFR,KRAS,MET,NTRK3,ROS1
+Nilotinib	ABL1,KIT,LYN
+Erlotinib	BRAF,DDR2,EGFR,ERBB2,ERRFI1,GNAS,KRAS,MAPK1,MET,PIK3CA,PTEN
+Gefitinib	BRAF,EGFR,ERBB2,ERBB3,GNAS,IGF1R,KRAS,MET,PBK,PIK3CA,PTEN
+Chemotherapy	BRAF,EGFR,KRAS,NRAS,PIK3CA,PTEN,RB1,TP53
+Cetuximab	ARAF,AREG,BRAF,CDKN2A,EGF,EGFR,ERBB2,ERBB3,EREG,FBXW7,GNAS,HRAS,KRAS,MET,NRAS,NRG1,NT5E,PIK3CA,PTEN,PTP4A3,SMAD4,TOP1,TP53,VPS37A
+Alectinib	ABCB1,ALK
+ALK Inhibitor TAE684	ALK,ROS1
+Trametinib	ARAF,BRAF,DDX43,DUSP6,GNA11,GNAQ,KRAS,MET,NF1,NRAS,PIK3CA,RASA1
+Dasatinib	ABCB1,ABL1,ABL2,ARID1A,DDR2,IDH1,KIT,KRAS,LYN
+Crenolanib	PDGFRA
+Dabrafenib	AKT1,BRAF,KRAS,NRAS,RAC1
+Motesanib	RET
+JAK2 Inhibitor AZD1480	RET
+Regorafenib	BRAF,KDR,KIT,KRAS,PIK3CA
+Mirdametinib	BRAF,DDX43,GNA11,GNAQ,HRAS,NF1
+Panitumumab	AREG,BRAF,CDKN2A,EGFR,ERBB2,EREG,FBXW7,KRAS,NRAS,PIK3CA,PTEN,SMAD4
+Pictilisib Bismesylate	BRAF
+PLX4720	BRAF,GNAQ
+Nutlin-3	BRAF
+Capecitabine	BRAF,DPYD,ERBB2,PIK3CA,TP53
+Bevacizumab	BRAF,EGFR,EPHB4,IDH1,KRAS,MMP2,MMP9,PIK3CA,PPP1R15A,VEGFA
+Tretinoin	ALDH1A2,CEBPA,FLT3,NPM1,PML
+SU5614	FLT3
+Cytarabine	FLT3,IKZF1,NPM1,NT5C2,PRPS1,RUNX1,WT1,ZEB1
+PD173074	FGFR1,FGFR2,FGFR3
+Valproic Acid	BAP1,NPM1
+NSC348884	NPM1
+Anti-CD123	NPM1
+Anti-CD33	NPM1
+Etoposide	NPM1,SF3B1,TP53
+Sirolimus	EGFR,ERBB2,FBXW7,MTOR,NF1,PIK3CA,STK11,TSC1
+Everolimus	AKT2,BAP1,EIF4EBP1,FBXW7,FLCN,HRAS,MTOR,NRAS,PIK3CA,PTEN,RPS6,STK11,TSC1,TSC2,VHL
+Olaparib	ATM,BAP1,BARD1,BRCA1,BRCA2,BRIP1,CBLC,CDK12,CHEK1,CHEK2,IDH1,MRE11,MYC,PALB2,PARP1,PPP2R2A,RAD51B,RAD51D,RAD54L,SF3B1
+Akt Inhibitor MK2206	AKT1,AKT3,CCNE1,KRAS,PIK3CA,PTEN
+Dacomitinib	EGFR,ERBB2,PTEN
+Lapatinib	CDKN1B,EGFR,ERBB2,ERBB4,NRG1,PIK3CA,PTEN
+Hormone Therapy	ESR1
+Palbociclib	CCND1,CCND2,CCND3,CCNE1,CDK4,CDK6,CDKN2A,CDKN2B,ERBB2,ESR1,KRAS,PIK3CA,RB1,SMARCA4
+Alpelisib	BRAF,CDK4,PIK3CA,PTEN,RB1,SGK1
+Pemetrexed	EGFR,KRAS,MDM2,TYMS
+Staurosporine	EGFR
+Neratinib	EGFR,ERBB2
+Fulvestrant	AKT1,CDK6,ESR1,PIK3CA,PTEN,RB1,TIMP1
+Tamoxifen	AGR2,CCND1,ESR1,PGR,PIK3CA,RSF1,TFF3,TP53
+Ponatinib	ABL1,FGFR1,FGFR2,FLT3,KIT,PDGFRA
+Pazopanib	EPAS1,FGFR1,FGFR2,FGFR3,HIF1A,MTOR,TP53,VHL
+Lestaurtinib	FLT3
+Tyrphostin AG 1296	FLT3
+Bortezomib	GATA2
+Fasudil	GATA2
+Sunitinib	BAP1,FLT3,HMOX1,IDH1,KDR,KIT,PDGFRA,PDGFRB,PTPRB,RET
+Dactolisib	AR,BRAF,EIF4EBP1,KRAS,NRAS,PIK3CA,PTEN
+Carmustine	MGMT
+O6-Benzylguanine	MGMT
+Izorlisib	PIK3CA
+MTOR Inhibitor	FBXW7,PTEN
+Doxorubicin	ATM,LRP1B,NT5C2,RB1,TOP2A,TP53,ZEB1
+GW-2580	
+Linsitinib	CDKN2A,CDKN2B,IGF2
+Docetaxel	AREG,CXCR4,DEFA1,EGFR,ERBB2,GAS6,IGF2,KRAS,NRAS,PTEN,STK11,TP53,XRCC1
+Cabazitaxel	IGF2
+Ibrutinib	BTK,MYD88,PIM1
+JW55	APC
+G007-LK	APC
+Apalutamide	AR
+Enzalutamide	AR,PTEN
+Bicalutamide	AR,CFLAR
+KU-0060648	ATM
+NU7441	ATM
+Alisertib	AURKA
+Cisplatin	ABCB1,ASS1,ATRX,AURKA,BIRC7,BRCA1,BRCA2,CDKN1B,CHEK1,DNMT1,EGFR,ERCC1,ERCC2,ETS2,FANCC,FGFR3,GNAS,GSTP1,HSPH1,KRAS,MDM2,MYC,NF2,NRG1,PIK3CA,PTEN,RRM1,SMARCA4,TP53,XRCC1
+Paclitaxel	ABCB1,ABCC10,ABCC3,ATM,AURKA,CCND1,ERBB2,ERCC2,ETS2,GSTP1,KRAS,MYD88,NRG1,PDCD4,PTEN,RAF1,RRM1,STMN1,SYK,TIMP1,TUBB3
+Exemestane	IGF1R,PGR
+Temsirolimus	KRAS,NF2,PIK3CA,PTEN,VHL
+Trastuzumab	AKT2,BIRC5,ERBB2,ERBB3,ERBB4,FCGR2A,FCGR3A,PIK3CA,PTEN
+Gemcitabine	BRCA1,BRCA2,CIP2A,ERBB2,ERCC1,FANCC,FGFR3,HSPB1,KRAS,MAGEH1,NRG1,NT5C2,RB1,RRM1,RRM2,SLC29A1,WEE1,XRCC1,ZEB1
+Thioguanine	NT5C2,PRPS1
+Mercaptopurine	NT5C2,PRPS1
+Nelarabine	NT5C2
+Arabinosylguanine	NT5C2
+Multikinase Inhibitor AEE788	EGFR
+Rociletinib	EGFR
+Carboplatin	ABCB1,ASS1,BRCA1,BRCA2,CCND1,EGFR,ERCC1,ERCC2,GSTP1,KRAS,NF2,NRG1,PTEN,RAF1,RRM1,TOP1,TP53,XRCC1
+Vinorelbine	BRCA1,RRM1,SMARCA4,XRCC1
+Fluorouracil	ALCAM,ATRX,AURKA,CDKN1A,CDKN1B,DKK1,DPYD,EGFR,ERBB2,GNAS,HSPA5,HSPH1,MTHFR,PIK3CA,RB1,SMAD4,TYMS,VEGFA
+FOLFOX Regimen	GSTP1
+Irinotecan	ARAF,BRAF,DKK1,ERBB2,GNAS,KRAS,NRAS,PIK3CA,RAD50,TOP1,TYMS,VEGFA
+Onartuzumab	MET
+Platinum Compound	AURKA,BIRC5,BRCA1,BRCA2,EGFR,ERBB2,ERCC1,WEE1
+Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	BCL2L11,CDKN2A,EGFR,HRAS,KRAS,PTEN
+Vandetanib	AKT2,RET
+Binimetinib	BRAF,HRAS,KRAS,NRAS
+MTOR Kinase Inhibitor AZD8055	HRAS,MTOR
+Pembrolizumab	B2M,CD274,DNMT3A,HLA-DRA,JAK1,JAK2,POLD1,POLE,STK11
+Nivolumab	CD274,DNMT3A,HLA-DRA,KRAS,MLH1,MSH2,PMS2,STK11
+Uprosertib	AKT1,PTEN
+Capivasertib	AKT1,MTOR,PIK3CA,PTEN
+Pictilisib	BRAF,ERBB2,KIT,KRAS,PIK3CA,PTEN,RIT1
+PI3Kbeta Inhibitor AZD8186	KRAS,PTEN
+PI3K/BET Inhibitor LY294002	MTOR,PTEN
+Buparlisib	PTEN
+GSK321	IDH1
+Idelalisib	PIK3CA
+FACT Complex-targeting Curaxin CBL0137	MYCN
+Vismodegib	PTCH1,SMO
+Arsenic Trioxide	PML,SMO
+PSI	SMO
+Sonidegib	PTCH1,SMO
+SB202190	STK11
+AKTi-1/2	ERBB2
+Cabozantinib	GNA11,GNAQ,KDR,MET,PIK3CA,RET,ROS1
+Afatinib	CDKN2A,EGFR,ERBB2,ERBB3,KRAS
+Seribantumab	NRG1
+Nimotuzumab	EGFR
+WZ4002	MAPK1
+Abemaciclib	KRAS,SMARCA4
+Foretinib	MET,ROS1
+Infigratinib	FGFR1,FGFR2,FGFR3
+Dovitinib	FGF3,FGFR1,FGFR2,FGFR3,KDR
+Tyrosine Kinase Inhibitor SU5402	FGFR3
+JSI-124	PTPRD,PTPRT
+NOTCH1 Antibody (PF-06293622)	NOTCH1
+Patritumab	NRG1
+Lonafarnib	FNTB
+Stattic	PTPRT
+Levoleucovorin	DKK1,VEGFA
+Decitabine	DNMT1,DNMT3A,KRAS
+Aminoglutethimide	TFF3
+Oxaliplatin	BRAF,BRCA1,DKK1,ERBB2,HSPH1,KRAS,MLH1,PIK3CA,POU5F1,TP53
+RG7356	CD44
+Conatumumab	CASP8
+Luminespib	ALK
+Ceritinib	ALK,ROS1
+Lorlatinib	ABCB1,ALK,ROS1
+Anti-ErbB3 Monoclonal Antibody AV-203	ERBB3,NRG1
+Abiraterone	AR
+9F7-F11	ERBB3
+Pertuzumab	BRAF,ERBB2,ERBB3
+Ganetespib	UGT1A
+7-Ethyl-10-Hydroxycamptothecin	SLFN11
+Taxane Compound	BIRC5,BRCA1,TUBB3
+Talazoparib	BRCA1,BRCA2,MRE11
+Ridaforolimus	KRAS,PIK3CA,PTEN
+GNE-617	NAPRT
+Salinomycin	ZEB1
+Cyclophosphamide	TOP1
+Topotecan	TOP1
+ACLY SiRNA	PRKAA2
+Anti-EGFR Monoclonal Antibody	MET,PIK3CA
+IGF1R Monoclonal Antibody	IGF1R
+Epirubicin	FOXP3
+Raltitrexed	TYMS
+Enzastaurin	JAK1
+MTOR Kinase Inhibitor PP242	EIF4EBP1,ERBB2,PIK3CA,PIK3R1,PTEN
+WYE354	EIF4EBP1
+Amrubicin	NQO1
+Immunomodulatory Oligonucleotide	KRAS
+Monomethyl Auristatin E	ABCC3
+Asparaginase	ASNS,PRPS1
+Osimertinib	EGFR,ERBB2
+Rindopepimut	EGFR
+Larotrectinib	NTRK1,NTRK3
+AGI-5198	IDH1
+Atezolizumab	BRAF,CD274,DNMT3A,HLA-DRA,KRAS,STK11
+B-Raf/VEGFR-2 Inhibitor RAF265	KRAS
+MEK Inhibitor RO4987655	BRAF,KRAS,NRAS
+Refametinib	BRAF,GNAQ,KRAS
+SCH772984	KRAS
+Teprotumumab	KRAS,PTPRD
+Quizartinib	FGF2,FLT3
+Trastuzumab Emtansine	ERBB2,ERBB3,PIK3CA,PTEN
+Futuximab/Modotuximab Mixture	EGFR
+Patidegib	SMO
+OICR-9429	CEBPA
+Midostaurin	FLT3,KIT
+Afimoxifene	FGFR1
+Anthracycline Antineoplastic Antibiotic	FLT3
+AZ909	TBK1
+G-573	KRAS
+MEK Inhibitor GDC-0623	KRAS
+Cobimetinib	BRAF
+Adjuvant Chemotherapy	TP53
+PD1 Inhibitor	HAVCR2
+Anti-TIM-3 Monoclonal Antibody	HAVCR2
+HER2 Inhibitor CP-724	ERBB3
+714	ERBB3
+Angiogenesis Inhibitor	ECSCR,ROBO4
+Avelumab	CD274
+ARS-853	KRAS
+Ixazomib	KRAS
+AZD5438	KRAS
+Capmatinib	MET
+WHI-P154	
+2	
+4-pyrimidinediamine	
+Retaspimycin Hydrochloride	
+Alvespimycin	
+JQ1	GNA11,GNAQ,MYCL,MYCN
+Salirasib	KRAS
+Metformin	IGF1R,NRAS
+Panobinostat	BAP1,MYCN
+Vorinostat	BAP1,RAD23B,TP53
+Trichostatin A	BAP1
+MC1568	BAP1
+Mocetinostat	BAP1
+Brigatinib	ALK,ROS1
+AZD3463	ALK,ROS1
+Pan-RAF Inhibitor LY3009120	BRAF
+Niacinamide	SIRT1
+Mitomycin	BRCA2,FANCC,PALB2,RB1,TP53
+Chlorambucil	FANCC
+Melphalan	FANCC,KRAS
+FOLFIRI Regimen	PPP1R15A,TOP1
+Alvocidib	CDKN2A
+A66	ERBB2
+Tgx 221	ERBB2
+Spliceostatin A	SF3B1
+GDC-0879	BRAF
+Omipalisib	NRAS
+Onatasertib	RICTOR
+Sapanisertib	AKT1,AKT2,MTOR,NFE2L2,PIK3CA,PTEN,RICTOR
+Pilaralisib	ERBB2
+Mitogen-Activated Protein Kinase Kinase Inhibitor	BRAF
+MEK Inhibitor REC-4881	BRAF
+Taselisib	PIK3CA,PTEN
+VTX-11e	NF1
+AZ628	NF1
+Amuvatinib	NRAS
+Alemtuzumab	TP53
+Peginterferon Alfa-2a	CALR
+Radiation Therapy	AURKA,CD274,PIK3CA
+Ipatasertib	PTEN
+GSK126	ARID1A,EZH2
+Ipilimumab	CD274,IFNGR1
+Cyproterone Acetate	AR
+Flutamide	AR
+Nilutamide	AR
+Porcupine Inhibitor WNT974	NOTCH1
+MEK Inhibitor CI-1040	PTEN
+Letrozole	CDKN2A,ESR1
+RapaLink-1	MTOR
+Apitolisib	BAP1,PIK3CA
+Phosphatidylinositide 3-Kinase Inhibitor	PIK3CA
+Ribociclib	CDK4,CDK6,NRAS,PIK3CA
+Nintedanib	
+Ruxolitinib	CSF3R,JAK1,JAK2,VHL
+Perifosine	PIK3CA,PTEN
+Irbesartan	FOS,JUN
+IRAK-1/4 Inhibitor	MYD88
+IMG-2005-5	MYD88
+PCV Regimen	ATRX
+Cediranib	BRCA1,BRCA2
+I-BET151	MYCL
+MET Tyrosine Kinase Inhibitor SGX523	HGF
+Aromatase Inhibitor	ESR1,KMT2C
+SGK1-Inh	SGK1
+CDK Inhibitor SNS-032	CCNE1
+Dinaciclib	CCNE1
+Tazemetostat	EZH2,SMARCB1
+JQ1 Compound	NF1
+Lenalidomide	CRBN
+Pomalidomide	CRBN
+Belinostat	UGT1A1
+Tegafur	DPYD
+Methotrexate	IKZF1,PRPS1,SLCO1B1,TP53,TYMS
+Cixutumumab	PTPRD
+Savolitinib	MET
+Entrectinib	ALK,NTRK1,NTRK3
+Anti-PD-1 Monoclonal Antibody MEDI0680	MSH2,MSH6
+Durvalumab	CD274,MSH2,MSH6
+Vatalanib	PTPRB
+Rucaparib	BAP1,BRCA1,BRCA2
+Therapeutic Tumor Infiltrating Lymphocytes	HLA-C,KRAS
+Erdafitinib	FGFR2,FGFR3
+Pan-AKT Kinase Inhibitor GSK690693	AKT3
+Pidnarulex	BRCA1,BRCA2
+Quarfloxin	BRCA1,BRCA2
+Sotrastaurin Acetate	GNA11,GNAQ
+Pyrimidine Antagonist	MTAP
+Fexagratinib	FGFR1,FGFR2,FGFR3
+Aspirin	PIK3CA
+PI103	PIK3CA
+PI-103	PIK3CA,PTEN
+Canertinib	EGFR
+EAP Protocol	TP53
+Ivosidenib	IDH1
+BPTES	IDH1
+Imatinib Mesylate	ABL1,KIT,PDGFRA
+Bafetinib	ABCB1,ABL1,LYN
+FGF/VEGF Receptor Tyrosine Kinase Inhibitor	FGFR1
+Letetresgene Autoleucel	CTAG1B,CTAG2
+Rebemadlin	TP53
+MDM2 Inhibitor AMGMDS3	TP53
+RG7112	TP53
+Anti-CTLA-4 Monoclonal Antibody	CTNNB1
+Anti-PD-L1 Monoclonal Antibody	CTNNB1,EGFR
+UNC1062	MERTK
+Prexasertib	CHEK1,MYC
+Tandutinib	FLT3,KIT
+PD-180970	KIT
+AS602868	FLT3
+Radioactive Iodine	GNAS
+FOLFOX-4 Regimen	BRAF,KRAS
+Bosutinib	ABL1
+Axitinib	ABL1,KDR
+Anti-VEGF Monoclonal Antibody	VHL
+Enasidenib	IDH2
+Immune Checkpoint Inhibitor	KRAS,LRP1B
+Leucovorin	DPYD,ERBB2
+JQ-1	MYC
+Checkpoint Kinase Inhibitor AZD7762	RAD50
+Rilotumumab	MET
+Hyperthermic Intraperitoneal Chemotherapy	EGFR
+Cytoreductive Surgery	EGFR
+Veliparib	BRCA1,BRCA2
+Iniparib	BRCA2
+Pegargiminase	ASS1
+Chloroquine	ASS1
+Taxol	ASS1
+Go6983	TLK2
+GF109203X	TLK2
+U0126	BRAF
+Encorafenib	BRAF
+Meloxicam	CTNNB1
+Zoledronic Acid	ERBB2
+FEC Regimen	PIK3CA
+FAC Regimen	PIK3CA
+AZ12908010	FGFR3
+JQEZ5	BRAF,EZH2
+CHZ868	PDGFRB
+BET Inhibitor	
+Birabresib	
+Selpercatinib	RET
+Sulindac	PIK3CA
+Celecoxib	PIK3CA
+Ibuprofen	PIK3CA
+Vincristine	
+Dexamethasone	CDK4,CDK6
+Tepotinib	MET
+Gilteritinib	FLT3
+Icotinib	
+Derazantinib	
+Fludarabine	IKZF1
+Vistusertib	RICTOR
+Agerafenib	
+Lucitanib	FGFR1
+DS-6501b	ROS1
+Adagrasib	KRAS
+Anti-PD1 Monoclonal Antibody	EGFR
+Dordaviprone	H3-3A
+BRAF Inhibitor	BRAF
+Fisogatinib	FGF19
+Trastuzumab Deruxtecan	ERBB2
+Prednisolone	NT5C2
+Lometrexol	PRPS1
+Bazedoxifene	IL6
+PI3Ka/Di	PIK3CA,PTEN
+Radiation Ionizing Radiotherapy	PIK3CA
+Pemigatinib	FGFR1
+Venetoclax	BCL2,IDH1,IDH2
+R3Mab	FGFR3
+FLT3/ABL/Aurora Kinase Inhibitor KW-2449	FLT3
+TRK Inhibitor	
+Tyrosine Kinase Inhibitor	
+Lenvatinib	KDR
+Sotorasib	KRAS
+Tipifarnib	HRAS
+ALK/TRK Inhibitor TSR-011	NTRK3
+Pasireotide	SSTR5
+R-CHOP Regimen	MS4A1
+CTX-712	SRSF2
+Amivantamab	EGFR
+Mobocertinib	EGFR
+Pralsetinib	
+Ramucirumab	EGFR
+Niraparib	BRCA1,BRCA2
+Margetuximab	ERBB2
+Repotrectinib	NTRK1,NTRK3
+Elacestrant	ESR1
+Vorasidenib	IDH1,IDH2
+Divarasib	KRAS
+Copanlisib	PIK3CA
+Larotrectinib Regimen	
+VEGF/VEGFR Inhibitors	TP53
+Tovorafenib	BRAF
+Eprenetapopt	TP53
+Azacitidine	TP53
+Lazertinib	EGFR
+PRMT5 Inhibitor AMG 193	MTAP
+Zenocutuzumab-zbco	
