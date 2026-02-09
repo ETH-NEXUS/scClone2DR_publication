@@ -1349,8 +1349,8 @@ my_p <- ggplot(gsea_opt_4,
       scClone2DR = "#009E73")
     ) +
     geom_violin(aes(fill = model), alpha = 0.35) +
-    ggtitle("Best drug per clone (GSEA score), all clones, opt_4") +
-    ylab("NES GSEA score") +
+    #ggtitle("Best drug per clone (GSEA score), all clones, opt_4") +
+    ylab("NES GSEA") +
     ggbeeswarm::geom_quasirandom(alpha = 08, size = 0.5)
 
 print(my_p)
@@ -1438,6 +1438,41 @@ p_scatter <- ggplot(seg_df, aes(x = NES.bulk, y = NES.scClone2DR)) +
 print(p_scatter)
 
 filename <- paste0(output, my_indication, "_", "delta_LOR_gsea_opt_4_min_5_scatter_scClone2DR_vs_bulk.pdf")
+ggsave(p_scatter, filename = filename, width = 8, height = 5)
+```
+
+Scatter plot for publication (without best drug bulk).
+
+```{r}
+#| label: fig-dot-opt-4-publ
+#| fig-width: 8
+#| fig-height: 5
+
+p_scatter <- ggplot(seg_df, aes(x = NES.bulk, y = NES.scClone2DR)) +
+  scale_fill_manual(values = cols_combined) +
+  #scale_colour_manual(values = cols_combined) +
+  geom_point(
+    alpha = 0.7, 
+    size = 4,
+    shape = 21,
+    stroke = 0,   # <-- THIS controls the outline thickness
+    aes(fill = drug_delta_LOR.scClone2DR)) +  # interior colour
+  labs(
+    x = "NES (bulk)",
+    y = "NES (scClone2DR)"
+  ) +
+  theme(axis.title = element_text(size = 10),
+        axis.text  = element_text(size = 9)) + 
+  geom_abline(slope = 1, intercept = 0, linetype = "dashed", colour = "grey50", linewidth = 0.6) +
+  coord_fixed(ratio = 1) +
+  guides(
+    fill   = guide_legend(ncol = 1, order = 1)
+  ) +
+  labs(fill   = "Best drug scClone2DR")
+
+print(p_scatter)
+
+filename <- paste0(output, my_indication, "_", "delta_LOR_gsea_opt_4_min_5_scatter_scClone2DR_vs_bulk_no_surrounds.pdf")
 ggsave(p_scatter, filename = filename, width = 8, height = 5)
 ```
 
