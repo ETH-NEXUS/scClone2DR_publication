@@ -86,9 +86,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - your.email@example.com
+Quentin Duchemin - qduchemin9@gmail.com
 
-Project Link: [https://github.com/scClone2DR_publication](https://github.com/scClone2DR_publication)
+Project Link: [https://github.com/ETH-NEXUS/scClone2DR_publication](https://github.com/ETH-NEXUS/scClone2DR_publication)
 
 ## Acknowledgments
 
