@@ -1,0 +1,24 @@
+# Include base requirements
+-r requirements.txt
+
+# Testing
+pytest>=6.0
+pytest-cov>=2.12
+pytest-mock>=3.6
+
+# Code quality
+black>=21.0
+flake8>=3.9
+isort>=5.9
+mypy>=0.910
+pylint>=2.10
+
+# Documentation
+sphinx>=4.0
+sphinx-rtd-theme>=0.5
+nbsphinx>=0.8
+
+# Development tools
+ipython>=7.25
+jupyter>=1.0
+notebook>=6.4
