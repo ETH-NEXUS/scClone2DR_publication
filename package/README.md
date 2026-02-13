@@ -55,7 +55,7 @@ scClone2DR/
 
 ## Documentation
 
-For detailed documentation, tutorials, and API reference, visit:
+For detailed documentation and tutorials, visit:
 - [Documentation](https://scClone2DR.readthedocs.io) (coming soon)
 - [Tutorial Notebook](tutorial_scClone2DR.ipynb)
 
