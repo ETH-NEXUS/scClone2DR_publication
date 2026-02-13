@@ -49,6 +49,9 @@ scClone2DR/
 - seaborn >= 0.11.0
 - tqdm >= 4.60.0
 - scikit-learn >= 0.24.0
+- scikit-fda>=0.8.1
+- nbformat>=5.0.0
+- plotly>=5.0.0
 
 ## Documentation
 
