@@ -18,7 +18,7 @@
 
 ```bash
 git clone https://github.com/ETH-NEXUS/scClone2DR_publication.git
-cd scClone2DR_publication
+cd scClone2DR_publication/package
 pip install -e .
 ```
 
